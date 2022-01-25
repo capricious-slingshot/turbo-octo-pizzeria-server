@@ -18,7 +18,7 @@ Express server backend API for [turbo-octo-pizzeria](https://github.com/capricio
 
 ###### start the server:
 
-`node server`
+`npm start`
 
 <!-- ## Live Project
 ###### Front End
